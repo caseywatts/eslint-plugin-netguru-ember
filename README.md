@@ -116,7 +116,7 @@ All rules from our plugin have to be prefixed with `netguru-ember/`
     "netguru-ember/no-function-prototype-extensions": 0,
     "netguru-ember/no-observers": 0,
     "netguru-ember/no-on-calls-in-components": 0,
-    "netguru-ember/no-side-effects": "error",
+    "netguru-ember/no-side-effects": 0,
     "netguru-ember/order-in-components": 0,
     "netguru-ember/order-in-controllers": 0,
     "netguru-ember/order-in-models": 0,
